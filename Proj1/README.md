@@ -4,12 +4,6 @@ A responsive multi-section landing page built with vanilla HTML, CSS, and JavaSc
 
 ---
 
-## 🌐 Live Preview
-
-> Open `index.html` in your browser to view the project locally.
-
----
-
 ## 📁 Project Structure
 
 ```
